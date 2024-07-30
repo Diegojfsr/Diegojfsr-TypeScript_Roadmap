@@ -1,2 +1,2 @@
-# Diegojfsr-TypeScript_Roadmap
-Diegojfsr/TypeScript_Roadmap
+# TypeScript_Roadmap
+TypeScript_Roadmap
